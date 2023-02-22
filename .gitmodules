@@ -1,0 +1,6 @@
+[submodule "au-syssec-f23-assignments"]
+	path = au-syssec-f23-assignments
+	url = https://github.com/dfaranha/au-syssec-f23-assignments
+[submodule "au-syssec-f23-exercises"]
+	path = au-syssec-f23-exercises
+	url = git@github.com:dfaranha/au-syssec-f23-exercises.git
