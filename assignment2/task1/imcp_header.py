@@ -1,3 +1,5 @@
+# @author: Malthe Tøttrup
+
 import struct
 
 """

@@ -1,3 +1,5 @@
+# @author: Malthe Tøttrup
+
 import socket
 import argparse
 from imcp_header import imcp_header
@@ -5,7 +7,7 @@ from Crypto.Cipher import AES
 import secrets
 
 def client(dest_ip):
-    client_socket = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.SOCK_STREAM)  # instantiate
+    client_socket = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_ICMP)  # instantiate
     client_socket.connect((dest_ip, 0))  # ICMP does not use ports, so we can use 0
     key = b'\xb00\xecL\xdf\x1eK.\xcf|l\x1d\xc2aC\xb1' # shared key
 
@@ -21,7 +23,7 @@ def client(dest_ip):
 
         imcp_packet = imcp_header(encrypted_msg)
 
-        client_socket.sendto(imcp_packet, (socket.gethostname(), 0))  # send message
+        client_socket.sendto(imcp_packet, (dest_ip, 0))  # send message
 
         message = input(" -> ")  # again take input
 
