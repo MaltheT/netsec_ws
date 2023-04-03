@@ -11,7 +11,7 @@ def server():
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_ICMP)
 
     key = b'\xb00\xecL\xdf\x1eK.\xcf|l\x1d\xc2aC\xb1' # shared key
-
+    
     # bind the socket to the ICMP protocol
     server_socket.bind(('127.0.0.1', socket.IPPROTO_ICMP))
 
