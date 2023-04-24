@@ -1,0 +1,35 @@
+FitnessX:
+Score: 43/100
+https://mobsf.live/static_analyzer/?name=FitnessX_2.9.20_Apkpure.xapk&checksum=4022e153d212eaa61327147751ad622c&type=xapk
+
+MinStrøm
+
+ShareIt
+
+Trendsales
+Score: 45/100
+https://mobsf.live/static_analyzer/?name=Trendsales%20_%20Fashion%20%26%20Home_4.7.2_Apkpure.apk&checksum=8ed543e46858f2f4ccd9c338e4bf67a8&type=apk
+
+Føtex Plus
+Score: 33/100
+https://mobsf.live/static_analyzer/?name=f%C3%B8tex%20Plus_2.0.0.476_Apkpure.apk&checksum=db064df035d4bb339dda736ecdbd7a14&type=apk
+
+Netto+
+Score: 33/100
+https://mobsf.live/static_analyzer/?name=Netto%2B_2.0.0.416_Apkpure.apk&checksum=e4c83d889b80d921fd25adc564cf65b6&type=apk
+
+
+foodora
+
+ticketmaster
+Score: 43/100
+https://mobsf.live/static_analyzer/?name=Ticketmaster%EF%BC%8DBuy%2C%20Sell%20Tickets_242.1_Apkpure.apk&checksum=cf6d18c81323e84077015cb11f65b116&type=apk
+
+Pulse
+Score: 50/100
+https://mobsf.live/static_analyzer/?name=Brightspace%20Pulse_1.2304.1.702341_Apkpure.apk&checksum=69601fd36e73b6b29ff4234f85175fa5&type=apk
+
+IDA
+Score: 50/100
+https://mobsf.live/static_analyzer/?name=Hello%20Fellow%20by%20IDA_5.3.1_Apkpure.apk&checksum=76a0a84c6ce5581f951fc247f21a1b93&type=apk
+
