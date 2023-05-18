@@ -1,0 +1,19 @@
+api.tradono.com --- B --- This server supports TLS 1.0 and TLS 1.1
+beacons.gcp.gvt2.com --- B --- This server supports TLS 1.0 and TLS 1.1 
+graph.facebook.com --- B --- This server supports TLS 1.0 and TLS 1.1
+api.leanplum.com --- B --- This server supports TLS 1.0 and TLS 1.1
+e.tradono.com --- B --- This server supports TLS 1.0 and TLS 1.1
+eu1.wzrkt.com --- A --- N/A
+assets.prod.leanplum.com --- B --- This server supports TLS 1.0 and TLS 1.1
+widget.trustpilot.com --- A+ --- N/A
+d1aopytiw8xr14.cloudfront.net --- B --- This server supports TLS 1.0 and TLS 1.1
+s3-eu-west-1.amazonaws.com --- B --- This server supports TLS 1.0 and TLS 1.1
+frontpage.trendsales.com --- A --- N/A
+www.ident.nets.eu --- --- 
+netseidbroker.dk --- ---
+netseidbroker.mitid.dk --- ---
+www.mitid.dk --- ---
+www.google.com --- ---
+m.stripe.com --- ---
+client-telemetry.us-east-1.amazonaws.com --- ---
+clients4.google.com --- ---
