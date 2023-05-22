@@ -1,0 +1,8 @@
+muid:            e168e7ac-90ee-4eff-a5cc-fa769ad79813907859
+guid:            96d3ab96-8049-4ddb-a698-42ba443639c07b008c
+type:            card
+card[number]:    457166890018----
+card[exp_month]: 9
+card[cvc]:       xxx
+card[exp_year]:  24
+sid:             e4475c8b-13b6-4635-b7ec-746c11638012362867
